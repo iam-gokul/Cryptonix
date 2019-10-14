@@ -1,3 +1,3 @@
 # Cryptonix
-A simple 2 peson chat application with AES encryption
+A simple 2 person chat application with AES encryption
 
