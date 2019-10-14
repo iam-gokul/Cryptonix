@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584477504990",
+    "firebase_url": "https://cryptnonix.firebaseio.com",
+    "project_id": "cryptnonix",
+    "storage_bucket": "cryptnonix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584477504990:android:aba6673d0d9a6aafcf194f",
+        "android_client_info": {
+          "package_name": "com.vit.app.cryptonix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584477504990-ld1itajo43cvklk1jvtmh4v4mieb4amb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vit.app.cryptonix",
+            "certificate_hash": "f57efb6d2d0b4d5bb96d6dca3a8dad5a9b6c6f14"
+          }
+        },
+        {
+          "client_id": "584477504990-vphghr3mihuu733ur05vhckt9a6trfl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZklhmGvklkOrbnnI3vOXq0KCOboaIVkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584477504990-vphghr3mihuu733ur05vhckt9a6trfl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
